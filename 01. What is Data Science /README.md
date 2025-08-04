@@ -19,8 +19,6 @@ The process of gaining insights from data includes clarifying the problem, colle
 
 # 🏆 Certificates
 
-
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/882af0b4-69d8-41ad-bbf0-c1f4a4df7ab6" />
-
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ffee128f-cfbf-4361-8a0c-6f8591cf0635" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1644daf4-ffc3-49e2-b3b0-7439d454f64b" />
