@@ -6,3 +6,5 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 
 # 🏆 Certificates
+
+https://github.com/user-attachments/assets/a02b9dae-1910-44df-b94e-daabe6602c65
