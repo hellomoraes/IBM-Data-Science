@@ -13,6 +13,6 @@ This course offers a beginner-friendly overview of the most commonly used progra
 
 # 🏆 Certificates
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/244b2fbd-e1d4-4335-acb7-1febec8d2aa6" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9bcef862-9623-4414-be38-0dd3a9b99216" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7bbfd252-1702-4f1c-bf21-f2149ff586ab" />
