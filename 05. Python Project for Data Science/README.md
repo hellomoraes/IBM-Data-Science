@@ -4,7 +4,11 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 # 🔑 Key Skills Learned
 
+- Data extraction using the yfinance library
+- Webscraping using the BeautifulSoup library
+- Data Analysis
+- Dashboard creation
 
 # 🏆 Certificates
 
-https://github.com/user-attachments/assets/a02b9dae-1910-44df-b94e-daabe6602c65
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a02b9dae-1910-44df-b94e-daabe6602c65" />
