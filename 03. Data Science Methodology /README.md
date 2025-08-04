@@ -14,6 +14,6 @@ This course covers data science methodologies such as the IBM Foundational Metho
 
 # 🏆 Certificates
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d4f04550-cefd-48bb-b14d-1825ea085fff" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/75bc74c8-c65f-43bb-84bd-82cc3a02f788" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2dc51bb4-364e-4c1e-9728-942a93da291e" />
